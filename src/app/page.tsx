@@ -11,7 +11,7 @@ export default function Home() {
       <main>
         <h1>Welcome to Our Blogs</h1>
         <p >Our Blogs is a platform designed to give writers of all kinds a space to share their thoughts,
-          ideas, and stories with a broader audience. Whether you're a professional writer looking for a 
+          ideas, and stories with a broader audience. Whether youre a professional writer looking for a 
           new audience or someone who simply loves to write, our platform provides the perfect space for you 
           to express yourself. Join our community, start sharing your blogs, and connect with readers from 
           all over the world. Here, your words matter.</p>
